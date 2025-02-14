@@ -8,6 +8,7 @@
   This project aims to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution by leveraging Power BI and Tableau for data visualization. The insights derived from key performance indicators (KPIs) will help identify optimization opportunities, enhance decision-making, and improve operational efficiency.
 
 ---
+
 # 🔍 Analysis Process
    1. 🧹Data Preprocessing with Excel.
    2. 🗄️Database Management with MySQL.
@@ -60,6 +61,8 @@
    7. All Metrics by Outlet Type:
       - Objective: Provide a comprehensive view of all key metrics (Total Sales, Average Sales, Number of Items) broken down by different outlet types.
       - Chart Type: **Matrix Card**.
+
+---
 
 
 
